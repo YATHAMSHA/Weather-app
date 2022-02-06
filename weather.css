@@ -73,7 +73,7 @@
     font-style: oblique;
   }
   .heading span{
-      color: red;
+      color: var(--red);
     
   }
   
